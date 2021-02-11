@@ -1,2 +1,1 @@
-# movieql
-Movie API with Graphql
+👨‍💻 GraphQL
